@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "50752500724",
+    "firebase_url": "https://pushtestapplication-b449f.firebaseio.com",
+    "project_id": "pushtestapplication-b449f",
+    "storage_bucket": "pushtestapplication-b449f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50752500724:android:a7429eb4e02bd946",
+        "android_client_info": {
+          "package_name": "com.bieniek.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50752500724-3ke3o5kvs5jj0ngqpnff3k5hjb6irf97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQLPby3koE-j8PM0W8rpYGHOyJeKKF0So"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

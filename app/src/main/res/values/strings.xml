@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Push Test</string>
+    <string name="positive_button_text">Ok</string>
+</resources>
